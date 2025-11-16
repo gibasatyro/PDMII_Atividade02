@@ -1,1 +1,3 @@
-"# PDMII_Atividade02" 
+# PDMII_Atividade02
+
+Gilberto de Sousa Satyro
